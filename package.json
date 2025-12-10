@@ -1,6 +1,6 @@
 {
     "name": "@haroonidrees123/markdown-it-patched",
-    "version": "14.1.1-patched",
+    "version": "14.1.0-patched",
     "description": "Markdown-it patched version with security fix",
     "keywords": [
         "markdown",
